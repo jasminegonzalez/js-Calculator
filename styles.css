@@ -1,0 +1,16 @@
+html {
+    text-align: center;
+}
+
+body {
+    background-color: paleturquoise;
+}
+
+#result {
+    font-size: 
+}
+button {
+    border: 3px solid black !important;
+    cursor: pointer;
+    outline: none;
+}
